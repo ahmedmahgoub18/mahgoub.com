@@ -279,6 +279,9 @@ header.header_content img {
     text-align: center;
 }
 /* Tablet Responsive */
-@media (max-width: 768px) {
-   
+@media (max-width: 768px) {   
+}
+/*phone Responsive  */
+@media (max-width: 412px){
+ 
 }
