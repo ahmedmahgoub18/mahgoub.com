@@ -280,9 +280,30 @@ header.header_content img {
 }
 /* Tablet Responsive */
 @media (max-width: 768px) {
+    #home .navbar nav {
+        display: block;
+        text-align: center;
+    }
+    
+    #home .navbar nav ul {
+        margin-top: 20px;
+    }
+    #home .navbar nav ul a {
+        margin: 0 8px;
+    }
    
 }
 /* phone  */
 @media (max-width: 412px){
- 
+    #home .navbar nav {
+        display: block;
+        text-align: center;
+    }
+    
+    #home .navbar nav ul {
+        margin-top: 20px;
+    }
+    #home .navbar nav ul a {
+        margin: 0 8px;
+    }
 }
